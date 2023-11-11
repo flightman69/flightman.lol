@@ -1,5 +1,3 @@
-module github.com/flightman69/manmadhan.lol
+module github.com/CaiJimmy/hugo-theme-stack/v3
 
-go 1.23
-
-require github.com/CaiJimmy/hugo-theme-stack/v3 v3.21.0 // indirect
+go 1.17
