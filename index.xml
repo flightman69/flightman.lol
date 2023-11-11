@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title></title>
-        <link>https://flightman69.github.io/flightman.lol/</link>
+        <link>/</link>
         <description>Recent content on </description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sat, 11 Nov 2023 00:35:53 +0530</lastBuildDate><atom:link href="https://flightman69.github.io/flightman.lol/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 11 Nov 2023 00:35:53 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Dev</title>
-        <link>https://flightman69.github.io/flightman.lol/post/dev/</link>
+        <link>/post/dev/</link>
         <pubDate>Sat, 11 Nov 2023 00:35:53 +0530</pubDate>
         
-        <guid>https://flightman69.github.io/flightman.lol/post/dev/</guid>
-        <description>&lt;img src="https://flightman69.github.io/flightman.lol/post/dev/banner.png" alt="Featured image of post Dev" /&gt;&lt;h1 id=&#34;this-is-just-for-experimenting-this-theme&#34;&gt;This is just for experimenting this theme&lt;/h1&gt;
+        <guid>/post/dev/</guid>
+        <description>&lt;img src="/post/dev/banner.png" alt="Featured image of post Dev" /&gt;&lt;h1 id=&#34;this-is-just-for-experimenting-this-theme&#34;&gt;This is just for experimenting this theme&lt;/h1&gt;
 &lt;h2 id=&#34;embedding-videos-from-various-video-platforms&#34;&gt;Embedding videos from various video platforms&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bilibili:&lt;/strong&gt;
 
@@ -52,11 +52,11 @@
         </item>
         <item>
         <title>Why Everything is so F*cking Fast ?</title>
-        <link>https://flightman69.github.io/flightman.lol/post/why-everything-is-so-fucking-fast/</link>
+        <link>/post/why-everything-is-so-fucking-fast/</link>
         <pubDate>Thu, 09 Nov 2023 01:44:38 +0530</pubDate>
         
-        <guid>https://flightman69.github.io/flightman.lol/post/why-everything-is-so-fucking-fast/</guid>
-        <description>&lt;img src="https://flightman69.github.io/flightman.lol/post/why-everything-is-so-fucking-fast/img.jpg" alt="Featured image of post Why Everything is so F*cking Fast ?" /&gt;&lt;p&gt;I really don&amp;rsquo;t like how things are now going on this world now,
+        <guid>/post/why-everything-is-so-fucking-fast/</guid>
+        <description>&lt;img src="/post/why-everything-is-so-fucking-fast/img.jpg" alt="Featured image of post Why Everything is so F*cking Fast ?" /&gt;&lt;p&gt;I really don&amp;rsquo;t like how things are now going on this world now,
 everything feels unoriginal. It&amp;rsquo;s like I&amp;rsquo;m always in a constant rush
 When the change is slow you wouldn&amp;rsquo;t notice it. Slowly you change with
 everyone around you. But what if one day you realise the change and it&amp;rsquo;s
